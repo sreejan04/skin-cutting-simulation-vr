@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+*.tsbuildinfo
+
+# Environment & editor
+.env
+.env.*
+.DS_Store
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Vite
+.vite/
+*.local
+
+# OS
+Thumbs.db
+
+# Tooling
+graphify-out/
+.opencode/
+AGENTS.md
