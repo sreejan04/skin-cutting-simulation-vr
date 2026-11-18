@@ -1,0 +1,6 @@
+D:\unity proj live\Skin cutting Simulation\skin cutting simu\Temp\SkinCuttingCompileCheck\SkinCuttingCompileCheck.dll
+D:\unity proj live\Skin cutting Simulation\skin cutting simu\Temp\SkinCuttingCompileCheck\SkinCuttingCompileCheck.pdb
+D:\unity proj live\Skin cutting Simulation\skin cutting simu\obj\Debug\SkinCuttingCompileCheck.csproj.AssemblyReference.cache
+D:\unity proj live\Skin cutting Simulation\skin cutting simu\obj\Debug\SkinCuttingCompileCheck.csproj.CoreCompileInputs.cache
+D:\unity proj live\Skin cutting Simulation\skin cutting simu\obj\Debug\SkinCuttingCompileCheck.dll
+D:\unity proj live\Skin cutting Simulation\skin cutting simu\obj\Debug\SkinCuttingCompileCheck.pdb
